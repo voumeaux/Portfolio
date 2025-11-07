@@ -15,4 +15,5 @@ Capture the Flag (CTF) practice and write-ups
 And much more as I expand my skill set!
 
 If you need to reach me please contact me at jelbacc@gmail.com
+
 Portfolio link: https://voumeaux.github.io/Portfolio/
