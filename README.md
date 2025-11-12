@@ -8,6 +8,8 @@ I’m passionate about hands on, practical learning building, breaking, and fixi
 🔐 Cybersecurity fundamentals exploring ethical hacking, digital forensics, and system hardening
 
 This portfolio will evolve over time. Future updates will include:
+App Development
+Web Programming
 Real-world network security labs
 Linux administration and configuration projects
 Python automation scripts
