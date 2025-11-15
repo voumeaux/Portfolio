@@ -1,3 +1,6 @@
+html, body {
+  font-family: 'Baloo 2', sans-serif;
+}
 
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, figure, figcaption, blockquote {
   margin: 0;
@@ -247,5 +250,6 @@ input:focus, textarea:focus, select:focus {
 ::-webkit-scrollbar-thumb:hover {
   background: #00ffff;
 }
+
 
 
