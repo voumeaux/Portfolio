@@ -1,5 +1,5 @@
 # Portfolio
-Hey there! I’m Jonathan!, a college student currently studying Computer Science.
+Hey there! I’m Jonathan! a college student currently studying Computer Science.
 This repository is a growing collection of my projects, experiments, and learning experiences as I continue to sharpen my technical skills and explore the world of technology.
 
 I’m passionate about hands on, practical learning building, breaking, and fixing things to truly understand how they work. My current focus areas include:
